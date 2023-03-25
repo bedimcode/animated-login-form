@@ -1,0 +1,28 @@
+========== HEADER & NAV ==========
+.login__title
+Login
+
+.login__label
+Email
+Password
+
+.login__check-label
+Remember me
+
+.login__forgot
+Forgot Password?
+
+.login__button
+Login
+
+.login__register
+Don't have an account? Register
+
+========== SHOW HIDDEN - PASSWORD ==========
+// Change password to text
+
+	// Switch to text
+	// Icon change
+
+	// Change to password
+	// Icon change
