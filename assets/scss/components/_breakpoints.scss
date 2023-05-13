@@ -1,0 +1,16 @@
+/*=============== BREAKPOINTS ===============*/
+/* For medium devices */
+@media screen and (min-width: 576px){
+   .login{
+      justify-content: center;
+
+      &__form{
+         width: 432px;
+         padding: 4rem 3rem 3.5rem;
+         border-radius: 1.5rem;
+      }
+      &__title{
+         font-size: 2rem;
+      }
+   }
+}
